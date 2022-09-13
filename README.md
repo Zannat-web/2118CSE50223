@@ -1,2 +1,1 @@
-# std-qualification
-   https://zannat-web.github.io/std-qualification/
+ https://zannat-web.github.io/2118cse50223/
